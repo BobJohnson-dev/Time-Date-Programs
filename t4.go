@@ -7,6 +7,7 @@ import (
 
 func main() { 
 	
+	//t4.go the same as t3.go
 	//We’ll start by getting the current time.
 	/* see https://gobyexample.com/time for this way of constructing a struc to print the time*/
 
